@@ -1,4 +1,4 @@
-###Hi, I'm Anshul
+##Hi, I'm Anshul
 I study CS, Philosophy & Data Science
 An inexhaustive list of some things I like are: 
 1. gnocchi🥔
