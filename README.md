@@ -11,7 +11,7 @@ An inexhaustive list of some things I like:
 6. poop jokes💩
 7. teaching 📚
 
-I don't know what more to write here, so this will have to do
+Don't know what else to write here. This will have to do before recruiting season hits and I adopt a more ✨Professional™©✨ introduction.
 
 <!--
 **anshultripathi2699/anshultripathi2699** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
