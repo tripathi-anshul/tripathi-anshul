@@ -2,7 +2,7 @@
 
 I study CS, Philosophy & Data Science @ The University of Pennsylvania
 
-An inexhaustive list of some things I like are: 
+An inexhaustive list of some things I like: 
 1. gnocchi🥔
 2. math 🤓
 3. [this website](https://www.youtube.com/watch?v=oHg5SJYRHA0)
