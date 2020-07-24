@@ -1,5 +1,7 @@
 ## Hi, I'm Anshul 👋
+
 I study CS, Philosophy & Data Science @ The University of Pennsylvania
+
 An inexhaustive list of some things I like are: 
 1. gnocchi🥔
 2. math 🤓
