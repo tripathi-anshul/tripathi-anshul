@@ -5,11 +5,11 @@ I study CS, Philosophy & Data Science @ The University of Pennsylvania
 An inexhaustive list of some things I like are: 
 1. gnocchi🥔
 2. math 🤓
-3. teaching 📚
+3. [this website](https://www.youtube.com/watch?v=oHg5SJYRHA0)
 4. dogs 🐕
 5. electric longboards ⚡🛹
 6. poop jokes💩
-7. [this website](https://www.youtube.com/watch?v=oHg5SJYRHA0)
+7. teaching 📚
 
 I don't know what more to write here, so this will have to do
 
