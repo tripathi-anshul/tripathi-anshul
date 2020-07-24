@@ -1,4 +1,15 @@
-### Hi there 👋
+###Hi, I'm Anshul
+I study CS, Philosophy & Data Science
+An inexhaustive list of some things I like are: 
+1. gnocchi🥔
+2. math 🤓
+3. teaching 📚
+4. dogs 🐕
+5. electric longboards ⚡🛹
+6. poop jokes💩
+7. [this website](https://www.youtube.com/watch?v=oHg5SJYRHA0)
+
+I don't know what more to write here, so this will have to do
 
 <!--
 **anshultripathi2699/anshultripathi2699** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
