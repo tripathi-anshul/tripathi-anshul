@@ -1,7 +1,6 @@
 ## Hi, I'm Anshul 👋
 
-Hi, I'm Anshul 👋
-Hi, I'm Anshul. I'm a senior undergrad + grad student at the University of Pennsylvania, where I'm working towards a BSE in CS and Philosophy, a minor in Mathematics and an MSE in Data Science.
+I'm a senior undergrad + grad student at the University of Pennsylvania, where I'm working towards a BSE in CS and Philosophy, a minor in Mathematics and an MSE in Data Science.
 
 At Penn, I enjoy teaching CS & Math, working on Software and Machine Learning Projects, and studying Moral & Socio-political Philosophy. I am involved with research projects including using machine learning to develop insightful tools for Penn Admissions to predict graduate student performance using admission applications, as well as an investigation into the permformance semi-supervised ML algorithms as a function of dimensionality and labeled/unlabeled sample complexities.
 
