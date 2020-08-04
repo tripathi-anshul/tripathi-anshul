@@ -1,15 +1,11 @@
 ## Hi, I'm Anshul 👋
 
-I study CS, Philosophy & Data Science @ The University of Pennsylvania
+Hi, I'm Anshul 👋
+Hi, I'm Anshul. I'm a senior undergrad + grad student at the University of Pennsylvania, where I'm working towards a BSE in CS and Philosophy, a minor in Mathematics and an MSE in Data Science.
 
-An inexhaustive list of some things I like: 
-1. gnocchi🥔
-2. math 🤓
-3. [this website](https://www.youtube.com/watch?v=oHg5SJYRHA0)
-4. dogs 🐕
-5. electric longboards ⚡🛹
-6. poop jokes💩
-7. teaching 📚
+At Penn, I enjoy teaching CS & Math, working on Software and Machine Learning Projects, and studying Moral & Socio-political Philosophy. I am involved with research projects including using machine learning to develop insightful tools for Penn Admissions to predict graduate student performance using admission applications, as well as an investigation into the permformance semi-supervised ML algorithms as a function of dimensionality and labeled/unlabeled sample complexities.
+
+Outside school, I enjoy longboarding, cooking and listening to podcasts. I've also spent my quarantine binge-watching Naruto.
 
 Don't know what else to write here. This will have to do before recruiting season hits and I adopt a more ✨Professional™©✨ introduction.
 
