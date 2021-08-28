@@ -1,10 +1,11 @@
-## Hi, I'm Anshul 👋
+## <img src = "https://www.wallpapertip.com/wmimgs/186-1863586_akatsuki-clouds-hd-png-vector-akatsuki-logo-png.png" width = "37"></img>  Hi, I'm Anshul 👋
 
-I'm a senior undergrad + grad student at the University of Pennsylvania, where I'm working towards a BSE in CS and Philosophy, a minor in Mathematics and an MSE in Data Science.
 
-At Penn, I enjoy teaching CS & Math, working on Software and Machine Learning Projects, and studying Moral & Socio-political Philosophy. I am involved with research projects including using machine learning to develop insightful tools for Penn Admissions to predict graduate student performance using admission applications, as well as an investigation into the permformance semi-supervised ML algorithms as a function of dimensionality and labeled/unlabeled sample complexities.
+Hi, I'm Anshul. I'm a senior undergrad + grad student at the University of Pennsylvania, where I'm working towards a Bachelor's in CS and Philosophy, a minor in Mathematics and a Master's in Data Science.
 
-Outside school, I enjoy longboarding, cooking and listening to podcasts. I've also spent my quarantine binge-watching Naruto.
+At Penn, I've been involved with ML research, taught CS & Math, and worked on interesting software. Previously, I have worked at Barclays and Penn as a Software Engineer. I will graduate from Penn this December.
+
+Outside school, I spent this summer longboarding around Philly, learning new pasta recipes, and documenting rare rock and mineral collections - a childhood hobby I revived upon visiting <a href = "https://www.youtube.com/watch?v=_dJX32lxVtI">AMNH's Rocks & Minerals Collection</a> (Next stop - <a href = "https://www.si.edu/spotlight/geogallery">DC</a>).
 
 <!--
 **anshultripathi2699/anshultripathi2699** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
