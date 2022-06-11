@@ -10,7 +10,7 @@
             <a href = "https://www.upenn.edu/" target = "_blank"> Penn</a>. 
           </p>
           <p style={{'paddingBottom' : '20px'}}>
-            Outside work, I enjoy playing table tennis, longboarding, travelling through the US, working on Arduiono,Rasberry Pi &amp; IOT projects,
+            Outside work, I enjoy playing table tennis, longboarding, travelling through the US, working on Arduiono,Rasberry Pi &amp; IoT projects,
             and documenting rare rock and mineral collections - a childhood hobby I revived
             upon visiting <a href = "https://www.youtube.com/watch?v=_dJX32lxVtI" target="_blank">AMNH's
             Rocks &amp; Minerals Collection</a> (Next stop - <a href = "https://www.si.edu/spotlight/geogallery" target="_blank">DC</a>).
