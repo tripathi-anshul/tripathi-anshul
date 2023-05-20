@@ -1,1 +1,1 @@
-https://tripathi-anshul.github.io/
+More about me here: https://tripathi-anshul.github.io/
